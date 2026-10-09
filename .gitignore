@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+# local scan output
+*.html
+*.csv
+*.json
+*.txt
+!requirements.txt
+scope.txt
+emails.txt
